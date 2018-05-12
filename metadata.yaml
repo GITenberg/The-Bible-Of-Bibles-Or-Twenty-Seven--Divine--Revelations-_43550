@@ -1,0 +1,29 @@
+_repo: The-Bible-Of-Bibles-Or-Twenty-Seven--Divine--Revelations-_43550
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Graves, Kersey
+    birthdate: 1813
+    deathdate: 1883
+    gutenberg_agent_id: '39565'
+    url: http://www.gutenberg.org/2009/agents/39565
+  - agent_name: Graves, Lydia M.
+    gutenberg_agent_id: '42288'
+    url: http://www.gutenberg.org/2009/agents/42288
+description: ''
+gutenberg_issued: '2013-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Free thought'
+title: The Bible of Bibles; Or, Twenty-Seven "Divine" Revelations
+url: http://www.gutenberg.org/ebooks/43550
